@@ -1,0 +1,17 @@
+C:\Users\DELL\Desktop\Authentication&Authorization\webApi\webApi\bin\Debug\netcoreapp2.2\appsettings.Development.json
+C:\Users\DELL\Desktop\Authentication&Authorization\webApi\webApi\bin\Debug\netcoreapp2.2\appsettings.json
+C:\Users\DELL\Desktop\Authentication&Authorization\webApi\webApi\bin\Debug\netcoreapp2.2\Properties\launchSettings.json
+C:\Users\DELL\Desktop\Authentication&Authorization\webApi\webApi\bin\Debug\netcoreapp2.2\webApi.deps.json
+C:\Users\DELL\Desktop\Authentication&Authorization\webApi\webApi\bin\Debug\netcoreapp2.2\webApi.runtimeconfig.json
+C:\Users\DELL\Desktop\Authentication&Authorization\webApi\webApi\bin\Debug\netcoreapp2.2\webApi.runtimeconfig.dev.json
+C:\Users\DELL\Desktop\Authentication&Authorization\webApi\webApi\bin\Debug\netcoreapp2.2\webApi.dll
+C:\Users\DELL\Desktop\Authentication&Authorization\webApi\webApi\bin\Debug\netcoreapp2.2\webApi.pdb
+C:\Users\DELL\Desktop\Authentication&Authorization\webApi\webApi\obj\Debug\netcoreapp2.2\webApi.csprojAssemblyReference.cache
+C:\Users\DELL\Desktop\Authentication&Authorization\webApi\webApi\obj\Debug\netcoreapp2.2\webApi.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\Authentication&Authorization\webApi\webApi\obj\Debug\netcoreapp2.2\webApi.RazorAssemblyInfo.cache
+C:\Users\DELL\Desktop\Authentication&Authorization\webApi\webApi\obj\Debug\netcoreapp2.2\webApi.RazorAssemblyInfo.cs
+C:\Users\DELL\Desktop\Authentication&Authorization\webApi\webApi\obj\Debug\netcoreapp2.2\webApi.AssemblyInfoInputs.cache
+C:\Users\DELL\Desktop\Authentication&Authorization\webApi\webApi\obj\Debug\netcoreapp2.2\webApi.AssemblyInfo.cs
+C:\Users\DELL\Desktop\Authentication&Authorization\webApi\webApi\obj\Debug\netcoreapp2.2\webApi.RazorTargetAssemblyInfo.cache
+C:\Users\DELL\Desktop\Authentication&Authorization\webApi\webApi\obj\Debug\netcoreapp2.2\webApi.dll
+C:\Users\DELL\Desktop\Authentication&Authorization\webApi\webApi\obj\Debug\netcoreapp2.2\webApi.pdb
